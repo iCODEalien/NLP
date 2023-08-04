@@ -1,0 +1,78 @@
+Before learning about the Markov property, it's helpful to have a solid understanding of the following topics:
+
+Probability Theory: Familiarize yourself with the basics of probability theory, 
+					including concepts like random variables, probability distributions, 
+					conditional probability, and Bayes' theorem. 
+					Understanding these foundational concepts will provide the groundwork for grasping the Markov property.
+
+Discrete Mathematics: 
+					A good understanding of discrete mathematics is beneficial, 
+					especially topics like sets, graphs, and combinatorics. 
+					Markov chains, which are based on discrete states and transitions, have connections to graph theory.
+
+Random Processes: 
+				Learn about random processes, 
+				particularly stochastic processes, 
+				which are collections of random variables indexed by time.
+				Markov chains are a type of stochastic process with the Markov property.
+
+Conditional Independence: 
+						Understanding the concept of conditional independence will be useful 
+						since the Markov property involves the idea that future events are conditionally independent of the past given the present.
+
+Matrix Algebra: 
+				Although not strictly necessary, 
+				having some familiarity with matrix algebra will help you better understand the mathematical representation 
+				and computations involved in Markov chains.
+
+Linear Algebra: 
+				Knowledge of linear algebra will be valuable for working with transition matrices, 
+				which are used to represent Markov chains and analyze their behavior.
+
+Probability Distributions: 
+						Knowledge of common probability distributions like the Bernoulli, Binomial, and Poisson distributions can help in 
+						understanding the properties of Markov chains.
+
+To understand Markov models, particularly Markov chains, in the context of discrete mathematics, you should focus on the following key topics:
+
+Sets and Relations: 
+					Understand the concept of sets and their operations (union, intersection, complement). 
+					You'll encounter sets of states and events when dealing with Markov chains.
+
+Graph Theory: 
+			Study graph theory concepts, including directed graphs (digraphs), 
+			nodes (vertices), edges, and paths. Markov chains can be represented as directed graphs, 
+			and the properties of the graph play a crucial role in understanding the behavior of the chain.
+
+Probability and Counting: 
+						Get familiar with the basic principles of probability, 
+						including conditional probability and Bayes' theorem. 
+						Counting principles, such as permutations and combinations, 
+						are also helpful in analyzing the possible states and transitions in Markov chains.
+
+Matrices and Linear Algebra: 
+							Learn about matrices, matrix operations (addition, multiplication), matrix-vector multiplication, 
+							and matrix inverses. Markov chains are often represented using matrices, 
+							and the transition probabilities between states are stored in a matrix called the transition matrix.
+
+Markov Property: Understand the concept of the Markov property and how it describes the memorylessness of a stochastic process. 
+				In a Markov chain, the future state depends only on the current state and not on the sequence of events that led to the current state.
+
+Discrete Probability Distributions: Familiarize yourself with discrete probability distributions, 
+									such as the Bernoulli, Binomial, and Poisson distributions. 
+									These distributions are used to model the probabilities of transitions in Markov chains.
+
+Stochastic Processes: Study stochastic processes, 
+						particularly discrete-time stochastic processes, 
+						as Markov chains are a specific type of discrete-time stochastic process. 
+						Understand the concept of time homogeneity, where the transition probabilities remain constant over time.
+
+Ergodicity and Stationarity: 
+							Learn about ergodicity and stationarity in the context of Markov chains. 
+							Ergodic Markov chains have a single steady-state distribution, 
+							while stationary Markov chains have transition probabilities that do not change over time.
+
+Applications of Markov Chains: 
+							Explore real-world applications of Markov chains, 
+							such as random walks, PageRank algorithm, 
+							and modeling various systems, including biological, financial, and social systems.
